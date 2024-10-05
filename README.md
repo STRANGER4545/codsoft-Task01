@@ -1,9 +1,9 @@
 # codsoft-Task01
 
-import java.util.Random;
-import java.util.Scanner;
-public class GuessingGame {
-    public static void main(String[] args) {
+        import java.util.Random;
+        import java.util.Scanner;
+        public class GuessingGame {
+        public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Random random = new Random();
         int numberOfRounds = 0;
